@@ -2,7 +2,15 @@
 
 This project presents an **interactive Sales Order Dashboard** built for analyzing and visualizing sales data. The dashboard provides a detailed overview of sales performance, order tracking, product insights, and customer trends.  
 
-It was designed to help businesses **monitor KPIs, identify top-performing regions/products, and improve decision-making** through clear data visualization.  
+It was designed to help businesses **monitor KPIs, identify top-performing regions/products, and improve decision-making** through clear data visualization. 
+ 
+## 📈 Insights from the Dashboard  
+
+- **Southwest region** recorded the **highest sales due (~27M)**.  
+- **Bikes** are the top-selling product category with **90K units sold**.  
+- Over **88% of orders were shipped via XRQ – Truck Ground**.  
+- **Online orders dominate** (28K vs. 4K offline orders).  
+- The top salesperson is **Jillian Carson** with **473 orders**.
 
 ---
 ## 📸 Dashboard Previews  
@@ -33,16 +41,6 @@ It was designed to help businesses **monitor KPIs, identify top-performing regio
 - **Customer & Sales Team Analysis**  
   - Online vs. offline order distribution.  
   - Top 10 salespersons by order volume. 
-
----
-
-## 📈 Insights from the Dashboard  
-
-- **Southwest region** recorded the **highest sales due (~27M)**.  
-- **Bikes** are the top-selling product category with **90K units sold**.  
-- Over **88% of orders were shipped via XRQ – Truck Ground**.  
-- **Online orders dominate** (28K vs. 4K offline orders).  
-- The top salesperson is **Jillian Carson** with **473 orders**.
 
 ---
 
