@@ -8,7 +8,7 @@ It was designed to help businesses **monitor KPIs, identify top-performing regio
 ## 📸 Dashboard Previews  
 
 ### Sales Overview Dashboard  
-![Sales Dashboard 3](./Sales%20Order%20Dashboard.png)  
+![Sales Dashboard 3](./screenshots/Sales%20Order%20Dashboard.png)  
 
 ----
 
