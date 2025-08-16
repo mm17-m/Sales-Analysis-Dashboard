@@ -5,6 +5,12 @@ This project presents an **interactive Sales Order Dashboard** built for analyzi
 It was designed to help businesses **monitor KPIs, identify top-performing regions/products, and improve decision-making** through clear data visualization.  
 
 ---
+## 📸 Dashboard Previews  
+
+### Sales Overview Dashboard  
+![Sales Dashboard 3](./Sales%20Order%20Dashboard.png)  
+
+----
 
 ## 🚀 Features  
 
@@ -51,10 +57,4 @@ It was designed to help businesses **monitor KPIs, identify top-performing regio
 - **DAX & Measures**  
 
 
----
-
-## 📸 Dashboard Previews  
-
-### Sales Overview Dashboard  
-![Sales Dashboard 3](./Sales%20Order%20Dashboard.png)  
 
