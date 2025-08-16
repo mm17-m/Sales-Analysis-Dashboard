@@ -36,6 +36,16 @@ It was designed to help businesses **monitor KPIs, identify top-performing regio
 
 ---
 
+## 📈 Insights from the Dashboard  
+
+- **Southwest region** recorded the **highest sales due (~27M)**.  
+- **Bikes** are the top-selling product category with **90K units sold**.  
+- Over **88% of orders were shipped via XRQ – Truck Ground**.  
+- **Online orders dominate** (28K vs. 4K offline orders).  
+- The top salesperson is **Jillian Carson** with **473 orders**.
+
+---
+
 ## 📂 Project Structure  
 
 - **Dashboards**  
