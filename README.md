@@ -55,12 +55,6 @@ It was designed to help businesses **monitor KPIs, identify top-performing regio
 
 ## 📸 Dashboard Previews  
 
-### 1. Sales Overview Dashboard  
-![Sales Dashboard 1](./Sales%20Order%20Dashboard%201.png)  
-
-### 2. Sales Details Dashboard  
-![Sales Dashboard 2](./Sales%20Order%20Dashboard%202.png)  
-
-### 3. Sales Performance & Insights Dashboard  
+### Sales Overview Dashboard  
 ![Sales Dashboard 3](./Sales%20Order%20Dashboard.png)  
 
